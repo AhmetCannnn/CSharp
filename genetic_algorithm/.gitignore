@@ -1,15 +1,29 @@
-# Visual Studio ile ilgili dosyalar
+## Build results
+bin/
+obj/
+
+## User-specific files
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Derleme çıktıları
-bin/
-obj/
+## VS Code
+.vscode/
 
-# Paketler
+## Windows image thumbs
+Thumbs.db
+
+## Resharper
+*.DotSettings.user
+
+## Backup & temporary files
+*.bak
+*.tmp
+
+## NuGet packages
+*.nupkg
 packages/
 
-# VS Code ayarları
-.vscode/
+## Others
+*.log

@@ -3,6 +3,7 @@ bin/
 obj/
 Properties/
 
+
 ## User-specific files
 *.user
 *.suo

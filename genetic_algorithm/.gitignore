@@ -1,36 +1,15 @@
-# Visual Studio files
-.vs/
+# Visual Studio ile ilgili dosyalar
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Derleme çıktıları
 bin/
 obj/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-*.cache
-*.log
 
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+# Paketler
+packages/
 
-# Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
-
-# Visual Studio cache/options directory
-.vs/ 
+# VS Code ayarları
+.vscode/
